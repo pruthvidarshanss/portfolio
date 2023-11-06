@@ -1,20 +1,18 @@
+import React from "react";
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { Text, View } from 'react-native';
+import { Styles } from './Screens/Styles';
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+export default class App extends React.Component {
+  render() {
+    return (
+      <View style={ Styles.container }>
+        <Text
+        style={{ color: "white" }}
+        >Pruthvi Darshan S S</Text>
+
+        <StatusBar style="auto" />
+      </View>
+    );
+  };
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});

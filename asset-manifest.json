@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.796164d0.js",
-    "static/js/90.cfce13f9.js": "/portfolio/static/js/90.cfce13f9.js",
+    "main.js": "/portfolio/static/js/main.2723e934.js",
+    "static/js/658.096f578c.js": "/portfolio/static/js/658.096f578c.js",
+    "static/media/MaterialCommunityIcons.ttf": "/portfolio/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/adaptive-icon.png": "/portfolio/static/media/adaptive-icon.87132bb2b5d1c6c1fabe.png",
+    "static/media/FontAwesome5_Solid.ttf": "/portfolio/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/portfolio/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/jacket.png": "/portfolio/static/media/jacket.99db263535ac9d42b0b9.png",
+    "static/media/FontAwesome5_Regular.ttf": "/portfolio/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
     "favicon.ico": "/portfolio/favicon.ico",
     "index.html": "/portfolio/index.html",
     "favicon-32.png": "/portfolio/favicon-32.png",
     "favicon-16.png": "/portfolio/favicon-16.png",
     "manifest.json": "/portfolio/manifest.json",
     "serve.json": "/portfolio/serve.json",
-    "main.796164d0.js.map": "/portfolio/static/js/main.796164d0.js.map",
-    "90.cfce13f9.js.map": "/portfolio/static/js/90.cfce13f9.js.map"
+    "main.2723e934.js.map": "/portfolio/static/js/main.2723e934.js.map",
+    "658.096f578c.js.map": "/portfolio/static/js/658.096f578c.js.map"
   },
   "entrypoints": [
-    "static/js/90.cfce13f9.js",
-    "static/js/main.796164d0.js"
+    "static/js/658.096f578c.js",
+    "static/js/main.2723e934.js"
   ]
 }

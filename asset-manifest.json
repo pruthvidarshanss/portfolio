@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.2723e934.js",
+    "main.js": "/portfolio/static/js/main.9cf98f80.js",
     "static/js/658.096f578c.js": "/portfolio/static/js/658.096f578c.js",
     "static/media/MaterialCommunityIcons.ttf": "/portfolio/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/adaptive-icon.png": "/portfolio/static/media/adaptive-icon.87132bb2b5d1c6c1fabe.png",
@@ -14,11 +14,11 @@
     "favicon-16.png": "/portfolio/favicon-16.png",
     "manifest.json": "/portfolio/manifest.json",
     "serve.json": "/portfolio/serve.json",
-    "main.2723e934.js.map": "/portfolio/static/js/main.2723e934.js.map",
+    "main.9cf98f80.js.map": "/portfolio/static/js/main.9cf98f80.js.map",
     "658.096f578c.js.map": "/portfolio/static/js/658.096f578c.js.map"
   },
   "entrypoints": [
     "static/js/658.096f578c.js",
-    "static/js/main.2723e934.js"
+    "static/js/main.9cf98f80.js"
   ]
 }
